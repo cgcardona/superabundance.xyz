@@ -8,7 +8,7 @@ At Super Abundance, we believe the exponential growth of technology—particular
 
 Our mission is to accelerate the commercialization and adoption of breakthrough technologies that enable the amplification of human creativity, the precise control of matter, and the decentralization of ownership and opportunity.
 
-Our first product, TellUrStori, embodies this vision by democratizing, amplifying, and accelerating human creativity. We are entering a renaissance unlike anything in human history, where generative AI unlocks Hollywood-level storytelling for everyone, and Web3 empowers creators to own and monetize their work in ways never before possible. TellUrStori is Super Abundance for creativity, providing artists, musicians, and storytellers with the ultimate creative canvas—where imagination meets infinite possibility.
+Our first product, [TellUrStori](https://tellurstori.com), embodies this vision by democratizing, amplifying, and accelerating human creativity. We are entering a renaissance unlike anything in human history, where generative AI unlocks Hollywood-level storytelling for everyone, and Web3 empowers creators to own and monetize their work in ways never before possible. TellUrStori is Super Abundance for creativity, providing artists, musicians, and storytellers with the ultimate creative canvas—where imagination meets infinite possibility.
 
 ![TellUrStori](./assets/tellurstori-logo.png)
 
