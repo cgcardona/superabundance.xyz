@@ -12,6 +12,6 @@ Our first product, TellUrStori, embodies this vision by democratizing, amplifyin
 
 ![TellUrStori](./assets/tellurstori-logo.png)
 
-At Super Abundance, we believe that a symbiotic relationship between AI, nanotechnology, and decentralized systems will transition humanity from an era of scarcity to one of abundance, longevity, and planetary stewardship. By funding, building, and accelerating this technological singularity, we ensure that these breakthroughs serve all of humanity and lead to a golden age of prosperity, knowledge, and exploration.
+At Super Abundance, we believe that a symbiotic relationship between AI, nanotechnology, and decentralized systems will transition humanity from an era of scarcity to one of abundance, longevity, and planetary stewardship. By building and accelerating this technological singularity, we ensure that these breakthroughs serve all of humanity and lead to a golden age of prosperity, knowledge, and exploration.
 
 ![TellUrStori](./assets/tellurstori2.webp)
