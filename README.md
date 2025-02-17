@@ -1,5 +1,7 @@
 # SuperAbundance - Creating the Future, Atom by Atom, Idea by Idea
 
+<link rel="stylesheet" href="styles/style.css">
+
 ![TellUrStori](./assets/tellurstori.webp)
 
 At Super Abundance, we believe the exponential growth of technology—particularly Atomically Precise Manufacturing (APM), molecular nanotechnology, artificial intelligence, and Web3—is ushering in a new era of Radical Abundance. We stand at the dawn of an age where scarcity becomes obsolete, and humanity thrives with limitless potential.
